@@ -18,14 +18,11 @@ Because the mapping of the genere of songs to the emotion we had decided to put 
 ## Architecture
 
 ![EMOUSIC](https://github.com/Ansh-create/EMOUSIC--EMOTION-BASED-MUSIC-PLAYER/blob/main/Screenshot%202022-06-03%20at%2010.18.32%20AM.png)
-![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.22%20AM.png)
-![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.30%20AM.png)
-![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.37%20AM.png)
-![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.51.16%20AM.png)
-![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.55%20AM.png)
-![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.41.02%20AM.png)
-![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.41.08%20AM.png)
-![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.41.15%20AM.png)
+
+## FRONT-END
+
+![EMOUSIC](https://github.com/Ansh-create/EMOUSIC--EMOTION-BASED-MUSIC-PLAYER/blob/main/Screenshot%202021-05-26%20at%2011.23.30%20AM.png)
+![EMOUSIC](https://github.com/Ansh-create/EMOUSIC--EMOTION-BASED-MUSIC-PLAYER/blob/main/Screenshot%202021-05-26%20at%2011.25.17%20AM.png)
 
 
 Please hit me up at techansh12@gmail.com if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
