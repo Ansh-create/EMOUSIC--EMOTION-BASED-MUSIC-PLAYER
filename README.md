@@ -15,6 +15,8 @@ Because the mapping of the genere of songs to the emotion we had decided to put 
 
  <B>EEl library</B>: It provides connectivity of javascript with python. Like we can say as html-JS as frontend and python as backend. The reason for choosing this was the frontend of html with css give us too many facilities for our project. in the HTML-CSS based Music player There are mostly all preferable options are given with a option based on mood which will ignite python script to work.</p>
 
+## Architecture
+
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.13%20AM.png)
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.22%20AM.png)
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.30%20AM.png)
