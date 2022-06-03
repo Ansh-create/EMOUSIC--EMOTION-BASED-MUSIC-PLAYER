@@ -7,13 +7,13 @@
 
  <p align="justify">In this project I have used libraries like OpenCV, EEL, numpy etc. OpenCV : For capturing images from webcam as well as for processing purpose, made implementation of fisherface methodology of opencv for classification.
 
-FisherFace : To train the model and store it in a model-file(.xml). While using player it uses for prediction for emotion.
+ <B>FisherFace</B> : To train the model and store it in a model-file(.xml). While using player it uses for prediction for emotion.
 
 I have used haarcascade trained model provided by OpenCV for face segmentation from the captured image.
 
 Because the mapping of the genere of songs to the emotion we had decided to put only 4 emotions into consideration for model. 1-angry 2-happy 3-sad 4-neutral
 
-EEl library: It provides connectivity of javascript with python. Like we can say as html-JS as frontend and python as backend. The reason for choosing this was the frontend of html with css give us too many facilities for our project. in the HTML-CSS based Music player There are mostly all preferable options are given with a option based on mood which will ignite python script to work.</p>
+ <B>EEl library</B>: It provides connectivity of javascript with python. Like we can say as html-JS as frontend and python as backend. The reason for choosing this was the frontend of html with css give us too many facilities for our project. in the HTML-CSS based Music player There are mostly all preferable options are given with a option based on mood which will ignite python script to work.</p>
 
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.13%20AM.png)
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.22%20AM.png)
