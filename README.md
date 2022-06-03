@@ -17,7 +17,7 @@ Because the mapping of the genere of songs to the emotion we had decided to put 
 
 ## Architecture
 
-![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.13%20AM.png)
+![EMOUSIC](https://github.com/Ansh-create/EMOUSIC--EMOTION-BASED-MUSIC-PLAYER/blob/main/Screenshot%202022-06-03%20at%2010.18.32%20AM.png)
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.22%20AM.png)
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.30%20AM.png)
 ![ANSH'S PORTFOLIO WEBSITE](https://github.com/Ansh-create/Portfolio-Website/blob/main/Screenshot%202022-06-03%20at%209.40.37%20AM.png)
