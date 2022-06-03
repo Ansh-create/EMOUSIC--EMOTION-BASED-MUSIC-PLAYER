@@ -5,7 +5,7 @@
 [![Author](https://img.shields.io/badge/Author-ANSH%20GUPTA-blue.svg)](https://github.com/Ansh-create/EMOUSIC)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-MAY%2021-yellow.svg)](https://github.com/Ansh-create/EMOUSIC)
 
- <p align="justify">n this project I have used libraries like OpenCV, EEL, numpy etc. OpenCV : For capturing images from webcam as well as for processing purpose, made implementation of fisherface methodology of opencv for classification.
+ <p align="justify">In this project I have used libraries like OpenCV, EEL, numpy etc. OpenCV : For capturing images from webcam as well as for processing purpose, made implementation of fisherface methodology of opencv for classification.
 
 FisherFace : To train the model and store it in a model-file(.xml). While using player it uses for prediction for emotion.
 
