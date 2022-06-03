@@ -2,7 +2,6 @@
 # <a href="#" target="_blank">WELCOME TO THE EMOUSIC</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Ansh-create/Portfolio-Website)
-
 [![Author](https://img.shields.io/badge/Author-ANSH%20GUPTA-blue.svg)](https://github.com/Ansh-create/EMOUSIC)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-NOV%2021-yellow.svg)](https://github.com/Ansh-create/EMOUSIC)
 
